@@ -52,11 +52,7 @@ This Power BI dashboard provides a comprehensive analysis of retail sales perfor
 
 ---
 
-## 🔗 Live Dashboard
 
-(Add Power BI Service link here)
-
----
 
 ## 👤 Author
 
