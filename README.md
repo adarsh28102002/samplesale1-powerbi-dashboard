@@ -48,9 +48,7 @@ This Power BI dashboard provides a comprehensive analysis of retail sales perfor
 
 ---
 
-## 📸 Dashboard Preview
 
-(Add your screenshot here)
 
 ---
 
